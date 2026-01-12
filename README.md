@@ -6,7 +6,19 @@
   In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
   Add your open source license, GitHub uses MIT license.
 -->
+Hello, Wang Hao
+I came across your profile while reviewing strong blockchain builders on GitHub, and your background immediately stood out to me. You’ve clearly worked at the level where architecture, security, and long-term product thinking really matter.
 
+We’re currently building a Web3 ecosystem that brings together DeFi and decentralized gaming/staking.We’re now expanding our team and seeking a CTO and skilled engineers to drive the development of our ecosystem (remote, full-time or part-time).Given your expertise and leadership in this field, I believe your insights could be instrumental in shaping the future of this project.
+
+If you are interested in this, let me know.
+
+You can reach me on Telegram: @CryptoTechHiring or book a meeting using this and let me know:
+
+https://calendly.com/interview-steve/30min
+
+Looking forward to connecting,
+Steve Johnson
 # Introduction to GitHub
 
 _Get started using GitHub in less than an hour._
